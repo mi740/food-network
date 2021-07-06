@@ -13,10 +13,17 @@ h1{
     
 }
 .link-button{
-    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
     padding: 8px 10px;
     border-radius: 20px;
+    color:white;
+    font-weight:700;
+}
+#order-button{
+    background-image: linear-gradient(orange, tomato);
+}
+#contact-button{
+    background-image: linear-gradient(blue, cyan);
 }
 .half-width{
     width: 50%;
@@ -42,8 +49,11 @@ h1{
     padding-left: 5%;
     padding-right: 12%;
     padding-top: 10%;
+    padding-bottom: 5%;
 }
-.margin-link-button{
+#margin-order-link-button{
     margin-top: 8%;
 }
-
+#margin-contact-link-button{
+    margin-top: 22%;
+}
