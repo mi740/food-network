@@ -8,6 +8,10 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+    color:darkgrey;
+}
 .orange-color{
     color: orange;
     
@@ -56,4 +60,41 @@ h1{
 }
 #margin-contact-link-button{
     margin-top: 22%;
+}
+#recipi-align{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.recepi-width{
+    width: 30%;
+    padding:1% 1% 1% 1%;
+    margin-left: 3.33%;
+    margin-right: 3.33%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+}
+.recepi-width p{
+    text-align: justify;
+}
+.recepi-width img{
+    width:100%
+}
+#recepi-padding{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+h3{
+    font-weight: 700;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:black ;
+    padding-top:2%;
+    padding-bottom: 8%;
+}
+footer p{
+    color: darkgrey;
+    font-weight: 700;
 }
