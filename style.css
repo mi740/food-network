@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .felexiable-container{
     display: flex;
@@ -44,9 +45,10 @@ h2{
 #left-half-width{
     width: 50%;
     padding: 5% 5% 0% 11%;
+   
 }
 #left-half-width img{
-    width:70%;
+    width:80%;
 }
 #right-half-width{
     width:50%;
@@ -80,9 +82,10 @@ h2{
 .recepi-width img{
     width:100%
 }
-#recepi-padding{
-    padding-left: 5%;
-    padding-right: 5%;
+#recepi-padding {
+    margin-left: 3.33%;
+    margin-right: 3.33%;
+    margin-top: 5%;
 }
 h3{
     font-weight: 700;
